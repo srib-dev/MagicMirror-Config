@@ -357,3 +357,9 @@ body {
 .MMM-GoogleDriveSlideShow img {
   transition: opacity 0.5s ease 0s !important
 }
+
+#module_MMM-CalendarExt3Agenda_AGENDA {
+    position: relative !important;
+    left: 0 !important;
+    margin: 0 auto;
+}
