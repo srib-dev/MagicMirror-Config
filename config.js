@@ -98,7 +98,8 @@ let config = {
       config: {
         instanceId: "AGENDA",
         calendarSet: ["events"],
-        locale: "nb-NO"
+        locale: "nb-NO",
+		width: "400px"
       }
     },
 
