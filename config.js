@@ -94,7 +94,7 @@ let config = {
 	
     {
       module: "MMM-CalendarExt3Agenda",
-      position: "middle_center",
+      position: "top_right",
       config: {
         instanceId: "AGENDA",
         calendarSet: ["events"],
