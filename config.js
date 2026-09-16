@@ -76,6 +76,7 @@ let config = {
         calendars: [
           {
           symbol: "calendar-check",
+		  name: "events",
           url: process.env.CALENDAR_URL,
           color: "#D4AF37"
         }
@@ -96,7 +97,7 @@ let config = {
       position: "middle_center",
       config: {
         instanceId: "AGENDA",
-        calendarSet: ["default"],
+        calendarSet: ["events"],
         locale: "nb-NO"
       }
     },
