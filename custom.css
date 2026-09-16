@@ -360,7 +360,7 @@ body {
 
 /* Bigger, bolder agenda styling */
 .CX3A {
-    font-size: 24px;
+    font-size: 30px;
     min-width: 400px;
     max-width: 500px;
     max-height: 700px;
@@ -376,7 +376,7 @@ body {
 
 /* Make the event icons scale with the bigger text */
 .CX3A .event .headline.useSymbol .symbol {
-    font-size: 20px;
+    font-size: 23px;
     color: #D4AF37;
 }
 
