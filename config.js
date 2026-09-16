@@ -90,13 +90,14 @@ let config = {
      *   - "currentMonth"
      *   - "fourWeeks"
      **********************************************************/
+	
     {
-      module: "MMM-MonthlyCalendar",
+      module: "MMM-CalendarExt3Agenda",
       position: "middle_center",
       config: {
-        mode: "fourWeeks",
-        displaySymbol: true,
-        firstDayOfWeek: "monday"
+        instanceId: "AGENDA",
+        calendarSet: ["default"],
+        locale: "nb-NO"
       }
     },
 
