@@ -99,7 +99,8 @@ let config = {
         instanceId: "AGENDA",
         calendarSet: ["events"],
         locale: "nb-NO",
-		showMiniMonthCalendar: false
+		showMiniMonthCalendar: false,
+		onlyEventDays: 5
 
       }
     },
