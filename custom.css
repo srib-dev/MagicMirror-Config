@@ -368,6 +368,12 @@ body {
     color: #F5F0FA;
 }
 
+.CX3A .event {
+    margin-bottom: 8px;
+    padding: 4px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
 /* Make the event icons scale with the bigger text */
 .CX3A .event .headline.useSymbol .symbol {
     font-size: 20px;
@@ -379,3 +385,4 @@ body {
 .CX3A .event .location {
     display: none;
 }
+
