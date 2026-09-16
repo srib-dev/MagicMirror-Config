@@ -358,3 +358,24 @@ body {
   transition: opacity 0.5s ease 0s !important
 }
 
+/* Bigger, bolder agenda styling */
+.CX3A {
+    font-size: 24px;
+    min-width: 400px;
+    max-width: 500px;
+    max-height: 700px;
+    padding: 10px 10px;
+    color: #F5F0FA;
+}
+
+/* Make the event icons scale with the bigger text */
+.CX3A .event .headline.useSymbol .symbol {
+    font-size: 20px;
+    color: #D4AF37;
+}
+
+/* Optional: hide description/location clutter if events have them */
+.CX3A .event .description,
+.CX3A .event .location {
+    display: none;
+}
