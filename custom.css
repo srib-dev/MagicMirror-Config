@@ -386,6 +386,5 @@ body {
     display: none;
 }
 
-.CX3A .relativeDay {
-    display: none;
-}
+.CX3A .relativeDay { display: none; }
+.CX3A .relativeDay.relativeDay_0 { display: inline-block; } /* keep "today" label only */
